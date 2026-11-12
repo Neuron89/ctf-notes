@@ -29,7 +29,7 @@
 ## Web Pentest
 *used to view what is happening on the website*
 
--  [Burp suite](https://github.com/xiv3r/Burpsuite-Professional)
+-  [Burp suite](https://portswigger.net/burp)
 -  [OWASP-ZAP](https://github.com/zaproxy/zaproxy?tab=readme-ov-file)
 
 ## Passwords
